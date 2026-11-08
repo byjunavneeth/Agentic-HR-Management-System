@@ -1,0 +1,10 @@
+# Core database and LLM integrations
+Faker>=24
+python-dotenv>=1
+psycopg[binary]>=3.1
+neo4j>=5.20
+groq>=0.13
+fastembed>=0.5
+
+# Web interface
+Flask>=3.0
